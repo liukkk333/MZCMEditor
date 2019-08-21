@@ -1,0 +1,22 @@
+{
+  "name": "MZCMEditor",
+  "version": "0.1.0",
+  "summary": "A short description of MZCMEditor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liukkk333/MZCMEditor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liukkk333": "liuk@izkml.com"
+  },
+  "source": {
+    "git": "https://github.com/liukkk333/MZCMEditor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MZCMEditor/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module MZCMEditor {
+  umbrella header "MZCMEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}

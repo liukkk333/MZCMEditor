@@ -1,0 +1,6 @@
+framework module Pods_MZCMEditor_Tests {
+  umbrella header "Pods-MZCMEditor_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

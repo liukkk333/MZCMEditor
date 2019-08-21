@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MZCMEditor (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MZCMEditor (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MZCMEditor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MZCMEditor: 24d55bb8468d30bb365ec5a62f229232c72e8632
+
+PODFILE CHECKSUM: a46ef9a9a4d4034a056eaa8ccdb2faa603fd029d
+
+COCOAPODS: 1.7.2
